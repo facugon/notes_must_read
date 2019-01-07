@@ -28,9 +28,9 @@ http://neuralnetworksanddeeplearning.com/
 author page: http://michaelnielsen.org/ 
 
 ----
-# NER
+## NER
 
-## spaCy - ready to work NER Lib
+### spaCy - ready to work NER Lib
 
 [spaCy](https://spacy.io/usage/linguistic-features#section-named-entities)
 
@@ -44,7 +44,7 @@ author page: http://michaelnielsen.org/
 
 
 
-## samples
+### samples
 
 [spaCy + nltk](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
 
@@ -58,3 +58,14 @@ author page: http://michaelnielsen.org/
 [n-grams + python (abbreviations)](https://medium.com/swlh/a-machine-learning-model-to-understand-fancy-abbreviations-trained-on-tolkien-36601b73ecbb)
 
 [github](https://github.com/avidale/weirdMath/blob/master/nlp/abbreviation_spellchecker_english.ipynb)
+
+
+-----
+
+## OpenCV + Python
+
+[Blob Detection](https://www.learnopencv.com/blob-detection-using-opencv-python-c/)
+
+
+
+-----
