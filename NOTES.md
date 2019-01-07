@@ -70,4 +70,4 @@ author page: http://michaelnielsen.org/
 
 -----
 
-[Nature of Code](https://natureofcode.com/book/chapter-6-autonomous-agents/)
+[Nature of Code](https://natureofcode.com/book/)
