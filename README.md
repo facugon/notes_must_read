@@ -76,6 +76,6 @@ author page: http://michaelnielsen.org/
 
 # [2019-01-08]
 
-Nice guy samples
+Nice guy samples of extracting text and summarizing the most important using NLP/NLTK
 
 https://github.com/charlieg/A-Smattering-of-NLP-in-Python
