@@ -71,3 +71,11 @@ author page: http://michaelnielsen.org/
 -----
 
 [Nature of Code](https://natureofcode.com/book/)
+
+-----
+
+# [2019-01-08]
+
+Nice guy samples
+
+https://github.com/charlieg/A-Smattering-of-NLP-in-Python
