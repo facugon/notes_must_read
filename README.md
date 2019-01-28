@@ -64,6 +64,8 @@ author page: http://michaelnielsen.org/
 
 ## OpenCV + Python
 
+https://www.learnopencv.com/
+
 [Blob Detection](https://www.learnopencv.com/blob-detection-using-opencv-python-c/)
 
 
