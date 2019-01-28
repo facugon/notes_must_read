@@ -79,3 +79,19 @@ author page: http://michaelnielsen.org/
 Nice guy samples of extracting text and summarizing the most important using NLP/NLTK
 
 https://github.com/charlieg/A-Smattering-of-NLP-in-Python
+
+-----
+
+# [2019-01-28]
+
+
+AllenNLP An open-source NLP research library, built on PyTorch
+
+https://allennlp.org/
+
+NER    https://demo.allennlp.org/named-entity-recognition/NTcwODI0
+
+
+DeepLearning Review
+
+https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf
