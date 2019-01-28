@@ -97,3 +97,9 @@ NER    https://demo.allennlp.org/named-entity-recognition/NTcwODI0
 DeepLearning Review
 
 https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf
+
+
+
+Image Alignment (Feature Based) using OpenCV (C++/Python)
+
+https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
