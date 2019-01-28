@@ -87,6 +87,8 @@ https://github.com/charlieg/A-Smattering-of-NLP-in-Python
 
 AllenNLP An open-source NLP research library, built on PyTorch
 
+https://pytorch.org/
+
 https://allennlp.org/
 
 NER    https://demo.allennlp.org/named-entity-recognition/NTcwODI0
