@@ -105,3 +105,11 @@ https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCu
 Image Alignment (Feature Based) using OpenCV (C++/Python)
 
 https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
+
+------
+
+[2019]
+
+Incredible amount of information about Statistical modelling
+
+https://risk-engineering.org/statistical-modelling/
