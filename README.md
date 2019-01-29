@@ -108,7 +108,7 @@ https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
 
 ------
 
-[2019]
+# [2019-01-29]
 
 Incredible amount of information about Statistical modelling
 
